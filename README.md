@@ -1,4 +1,4 @@
-# electron-bootstrap-vue-template
+# bootstrap-vue-template
 
 > A Vue.js project
 
